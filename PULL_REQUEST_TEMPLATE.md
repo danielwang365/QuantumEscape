@@ -3,6 +3,7 @@
 
 ## Description
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+
 **Please specify the type of change made, and ensure that all changes follow the _Checklist_ prior to making the pull request.**
 
 ## Type of change
