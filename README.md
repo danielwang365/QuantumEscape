@@ -8,6 +8,8 @@ The game engine we are using is **Unity version 2020.2.0f1**
 
 This project is completely open-source, feel free the make pull requests to this repository at any time, and please report any issues that may occur.
 
+**Please refer to the _PULL_REQUEST_TEMPLATE.md_ when making pull request **
+
 **Please refer to the _Unity Style Guide_ below** for naming conventions, additionally, please ensure that **all your code is properly documented**.
 
 [Style Guide] (https://github.com/justinwasilenko/Unity-Style-Guide/blob/master/README.md#structure-folder-names)
