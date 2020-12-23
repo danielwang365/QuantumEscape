@@ -12,9 +12,9 @@ This project is completely open-source, feel free the make pull requests to this
 
 [Style Guide] (https://github.com/justinwasilenko/Unity-Style-Guide/blob/master/README.md#structure-folder-names)
 
-When making a pull request please refer to the template below.
-
 ## Pull Request Template
+*When making a pull request please refer to the template below.*
+
 ### Description
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
